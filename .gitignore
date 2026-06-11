@@ -5,3 +5,6 @@
 !README.md
 !LICENSE
 !.gitignore
+
+# Do not ignore assets folder
+!assets/
