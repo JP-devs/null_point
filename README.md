@@ -18,12 +18,16 @@ The framework is organized into specialized modules for maximum efficiency.
 
 <div align="center">
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="assets/network.png" width="80"><br>**Network** | <img src="assets/OSINT.png" width="80"><br>**OSINT** | <img src="assets/security.png" width="80"><br>**Security** | <img src="assets/stealth+privacy.png" width="80"><br>**Stealth & Privacy** |
-| <img src="assets/dev.png" width="80"><br>**Dev Tools** | <img src="assets/sys.png" width="80"><br>**Sys Monitor** | <img src="assets/advanced_intel.png" width="80"><br>**Advanced Intel** | <img src="assets/forensics.png" width="80"><br>**Forensics** |
-| <img src="assets/file_systems.png" width="80"><br>**File Systems** | <img src="assets/web_analysis.png" width="80"><br>**Web Analysis** | <img src="assets/systemm_hardening.png" width="80"><br>**System Hardening** | <img src="assets/crypto.png" width="80"><br>**Crypto** |
-| <img src="assets/utils.png" width="80"><br>**Utils** | <img src="assets/text_utils.png" width="80"><br>**Text Utilities** | <img src="assets/devops.png" width="80"><br>**DevOps** | <img src="assets/games.png" width="80"><br>**Games** |
+| | |
+| :---: | :---: |
+| <img src="assets/network.png" width="200"><br>**Network** | <img src="assets/OSINT.png" width="200"><br>**OSINT** |
+| <img src="assets/security.png" width="200"><br>**Security** | <img src="assets/stealth+privacy.png" width="200"><br>**Stealth & Privacy** |
+| <img src="assets/dev.png" width="200"><br>**Dev Tools** | <img src="assets/sys.png" width="200"><br>**Sys Monitor** |
+| <img src="assets/advanced_intel.png" width="200"><br>**Advanced Intel** | <img src="assets/forensics.png" width="200"><br>**Forensics** |
+| <img src="assets/file_systems.png" width="200"><br>**File Systems** | <img src="assets/web_analysis.png" width="200"><br>**Web Analysis** |
+| <img src="assets/systemm_hardening.png" width="200"><br>**System Hardening** | <img src="assets/crypto.png" width="200"><br>**Crypto** |
+| <img src="assets/utils.png" width="200"><br>**Utils** | <img src="assets/text_utils.png" width="200"><br>**Text Utilities** |
+| <img src="assets/devops.png" width="200"><br>**DevOps** | <img src="assets/games.png" width="200"><br>**Games** |
 
 </div>
 
