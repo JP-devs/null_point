@@ -1,9 +1,0 @@
-requests
-textual
-colorama
-dnspython
-beautifulsoup4
-psutil
-prettytable
-flask
-phonenumbers
