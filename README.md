@@ -1,4 +1,5 @@
 # 🛡️ Null Point Framework
+# 👨‍💻 Work In Progress (dm me on discord if you have quistions)
 
 ![Null Point Framework](assets/main.png)
 
