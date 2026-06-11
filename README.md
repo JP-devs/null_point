@@ -129,13 +129,8 @@ python null_point_gui.py
 * **Tool Chaining**: Native support for chaining tools.
 * **Automated Testing**: A comprehensive test suite is located in `tests/`.
 
-## 🐳 Containerization & CI/CD
-
-* **Docker Support**: A `Dockerfile` is provided for easy deployment.
-* **Continuous Integration**: GitHub Actions are configured to run tests on every push.
-
 ## 🗺️ Future Roadmap
 
 * **Enhanced GUI**: Integrating more complex interactive widgets and real-time data visualizations.
-* **Expanded Toolset**: Continuous addition of new security and OSINT modules.
+* **continuously maintained**: Continuous addition of new modules and implementing the newest methods.
 * **Plugin System**: Developing a modular plugin architecture.
